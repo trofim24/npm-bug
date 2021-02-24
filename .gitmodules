@@ -1,0 +1,3 @@
+[submodule "npm-bug-submodule"]
+	path = npm-bug-submodule
+	url = https://github.com/trofim24/npm-bug-submodule
